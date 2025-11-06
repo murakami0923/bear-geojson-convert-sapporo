@@ -9,3 +9,4 @@ notebooks/data/csv/*
 notebooks/data/geojson/*
 !notebooks/data/geojson/.gitkeep
 
+.ipynb_checkpoints/
