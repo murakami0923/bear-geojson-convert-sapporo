@@ -1,0 +1,6 @@
+data/csv/*
+!data/csv/.gitkeep
+
+data/geojson/*
+!data/geojson/.gitkeep
+
