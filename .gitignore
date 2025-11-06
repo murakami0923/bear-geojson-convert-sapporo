@@ -3,9 +3,9 @@
 .venv/*
 .venv/.gitkeep
 
-data/csv/*
-!data/csv/.gitkeep
+notebooks/data/csv/*
+!notebooks/data/csv/.gitkeep
 
-data/geojson/*
-!data/geojson/.gitkeep
+notebooks/data/geojson/*
+!notebooks/data/geojson/.gitkeep
 
