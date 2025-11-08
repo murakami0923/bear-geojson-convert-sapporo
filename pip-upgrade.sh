@@ -1,3 +1,3 @@
 #!/bin/bash
-source ./venv/bin/activate
+source .venv/bin/activate
 pip install --upgrade pip==25.3
