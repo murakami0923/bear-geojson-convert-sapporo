@@ -14,4 +14,6 @@ echo "http://${HOST}:${PORT}/lab?token=${TOKEN}"
 echo
 echo
 
+sleep 5
+
 jupyter-lab --ip=${IP} --port=${PORT} --ServerApp.token=${TOKEN} --ServerApp.notebook_dir=${NOTEBOOK_DIR}
